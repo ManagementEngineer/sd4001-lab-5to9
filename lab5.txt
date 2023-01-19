@@ -1,0 +1,24 @@
+
+college
+student
+airport
+taxi
+driver
+Toronto
+art 
+museum
+life
+machine
+learning
+
+        college student airport taxi driver Toronto art museum life machine learning
+sen 1   1           1   0       0       0       0       0   0   0       0       0   
+sen 2   0           0   1       1       1       0       0   0   0       0       0
+sen 3   0           0   0       0       0       1       1   1   0       0       0
+sen 4   0           0   0       0       0       0       1   0   1       0       0
+sen 5   0           1   0       0       0       0       0   0   0       1       1
+
+5 rows, 11 columns
+
+IDF for college = log(5/1) = 0.699
+IDF for art = log(5/2) = 0.398
